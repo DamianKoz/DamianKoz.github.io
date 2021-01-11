@@ -1,3 +1,7 @@
+## Welcome to my resumee
+Here I will post all the stuff that I do.
+Have fun looking through everything.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DamianKoz/DamianKoz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
